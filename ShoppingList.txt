@@ -3,4 +3,5 @@ Break
 Bananas
 Eggs
 Juice
-
+Cereal
+Potato Chips
